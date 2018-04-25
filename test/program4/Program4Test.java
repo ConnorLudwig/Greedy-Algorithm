@@ -11,7 +11,10 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Connor
+ * Author: Connor Ludwig and Kendell Prather
+ * Date: 4/24/18
+ * Overview: Algorithm that returns the minimum number of coins for a given amount, used dynamic iteration. 
+ * That method is tested using JUnit tests.
  */
 public class Program4Test {
     
